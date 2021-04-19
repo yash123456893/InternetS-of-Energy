@@ -23,9 +23,6 @@ Adaptations for PINE64 board used for the DAISEE prototype. The code is a based 
 * NFR24 library (for Arduino)
 
 
-## Documentation
-
-The documentation is on an Hackpad in french/english for the moment : http://bit.ly/Ethereum-CitizenWatt-Pine64
 
 ## API documentation
 
